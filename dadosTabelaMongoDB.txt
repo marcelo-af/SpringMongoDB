@@ -1,0 +1,124 @@
+
+DADOS TABELA MONGODB
+
+
+{
+  "_id": {
+    "$oid": "6407b97104f37c4e635aedcd"
+  },
+  "name": "Mobile 3",
+  "price": 28,
+  "quantity": 8,
+  "status": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1678060800000"
+    }
+  },
+  "categoryId": "5a30de130867edfa45711668",
+  "brand": {
+    "name": "brand 3",
+    "_id": {
+      "$oid": "6407b62c04f37c4e635aedcc"
+    }
+  },
+  "colors": [
+    "black",
+    "blue"
+  ]
+}
+
+
+
+================================================================================================
+
+
+{
+  "_id": {
+    "$oid": "6407bde404f37c4e635aedcf"
+  },
+  "name": "Mobile 1",
+  "price": 45,
+  "quantity": 4,
+  "status": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1476921600000"
+    }
+  },
+  "categoryId": "5a30de130867edfa45711668",
+  "brand": {
+    "name": "brand 1",
+    "_id": {
+      "$oid": "6407bde404f37c4e635aedcf"
+    }
+  },
+  "colors": [
+    "red",
+    "green",
+    "blue"
+  ]
+}
+
+
+
+========================================================================
+
+
+
+{
+  "_id": {
+    "$oid": "6407bfa404f37c4e635aedd0"
+  },
+  "name": "Mobile 2",
+  "price": 12,
+  "quantity": 7,
+  "status": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1510617600000"
+    }
+  },
+  "categoryId": "5a30de130867edfa45711668",
+  "brand": {
+    "name": "brand 2",
+    "_id": {
+      "$oid": "6407bfa404f37c4e635aedd0"
+    }
+  },
+  "colors": [
+    "yellow",
+    "green"
+  ]
+}
+
+
+=================================================================================
+
+
+{
+  "_id": {
+    "$oid": "6407e4fd3213055752a1ae59"
+  },
+  "name": "Mobile 4",
+  "price": 12,
+  "quantity": 7,
+  "status": true,
+  "date": {
+    "$date": {
+      "$numberLong": "1477353600000"
+    }
+  },
+  "categoryId": "5a30de130867edfa45711668",
+  "brand": {
+    "_id": " ",
+    "name": "brand 4"
+  },
+  "colors": [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "pink"
+  ]
+}
